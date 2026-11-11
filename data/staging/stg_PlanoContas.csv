@@ -1,0 +1,34 @@
+﻿3.01;Receita de Venda de Bens e/ou Serviços;1;0
+3.02;Custo dos Bens e/ou Serviços Vendidos;1;0
+3.03;Resultado Bruto;0;1
+3.04;Despesas/Receitas Operacionais;0;0
+3.04.01;Despesas com Vendas;0;0
+3.04.01.01;(Provisão) reversão ao valor recuperável de clientes;1;0
+3.04.01.02;Outras Despesas de Vendas;1;0
+3.04.02;Despesas Gerais e Administrativas;0;0
+3.04.02.01;Honorários dos Administradores;1;0
+3.04.02.02;Outras;1;0
+3.04.03;Perdas pela Não Recuperabilidade de Ativos;1;0
+3.04.04;Outras Receitas Operacionais;1;0
+3.04.05;Outras Despesas Operacionais;1;0
+3.04.06;Resultado de Equivalência Patrimonial;1;0
+3.05;Resultado Antes do Resultado Financeiro e dos Tributos;0;1
+3.06;Resultado Financeiro;0;0
+3.06.01;Receitas Financeiras;1;0
+3.06.02;Despesas Financeiras;1;0
+3.07;Resultado Antes dos Tributos sobre o Lucro;0;1
+3.08;Imposto de Renda e Contribuição Social sobre o Lucro;0;0
+3.08.01;Corrente;1;0
+3.08.02;Diferido;1;0
+3.09;Resultado Líquido das Operações Continuadas;1;0
+3.10;Resultado Líquido de Operações Descontinuadas;0;0
+3.10.01;Lucro/Prejuízo Líquido das Operações Descontinuadas;1;0
+3.10.02;Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas;1;0
+3.11;Lucro/Prejuízo Consolidado do Período;0;1
+3.11.01;Atribuído a Sócios da Empresa Controladora;1;0
+3.11.02;Atribuído a Sócios Não Controladores;1;0
+3.99;Lucro por Ação - (Reais / Ação);0;0
+3.99.01;Lucro Básico por Ação;0;0
+3.99.01.01;ON;1;0
+3.99.02;Lucro Diluído por Ação;0;0
+3.99.02.01;ON;1;0

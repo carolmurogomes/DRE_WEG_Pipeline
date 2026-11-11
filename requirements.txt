@@ -1,0 +1,5 @@
+##Bibliotecas importadas
+PyMuPDF
+pandas
+pyodbc
+openpyxl
