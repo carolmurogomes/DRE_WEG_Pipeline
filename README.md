@@ -29,7 +29,7 @@ O projeto contempla informações financeiras referentes aos exercícios de 2023
 
 O projeto utiliza uma arquitetura de dados organizada em camadas, integrando as etapas de extração, preparação, armazenamento, transformação e análise.
 
-![Arquitetura do Pipeline DRE WEG](images/arquitetura_pipeline.png)
+![Arquitetura do Pipeline DRE WEG](images/arquitetura_pipeline.jpg)
 
 O processamento é dividido em três componentes principais:
 
